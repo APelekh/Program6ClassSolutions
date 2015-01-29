@@ -1,0 +1,6 @@
+C:\Users\Technologist\Documents\GitHub\Program6ClassSolutions\Lists\Lists\bin\Debug\Lists.exe.config
+C:\Users\Technologist\Documents\GitHub\Program6ClassSolutions\Lists\Lists\bin\Debug\Lists.exe
+C:\Users\Technologist\Documents\GitHub\Program6ClassSolutions\Lists\Lists\bin\Debug\Lists.pdb
+C:\Users\Technologist\Documents\GitHub\Program6ClassSolutions\Lists\Lists\obj\Debug\Lists.csprojResolveAssemblyReference.cache
+C:\Users\Technologist\Documents\GitHub\Program6ClassSolutions\Lists\Lists\obj\Debug\Lists.exe
+C:\Users\Technologist\Documents\GitHub\Program6ClassSolutions\Lists\Lists\obj\Debug\Lists.pdb

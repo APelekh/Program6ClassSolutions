@@ -25,6 +25,8 @@ namespace FlipMania
         /// <param name="numberOfFlips">number of flips</param>
         static void FlipCoins(int numberOfFlips)
         {
+            // you can perform the check for valid data, not negative, like:
+            // if (numberOfFlips > 0)
             int numberOfHeads = 0;
             int numberOfTails = 0;
             for (int i = 0; i < numberOfFlips; i++)
@@ -33,6 +35,7 @@ namespace FlipMania
                 int theFlip = randomNumberGenerator1.Next(0, 2);
                 //checking for head or tail
                 if (theFlip == 0)
+                // other way to do it: if (rng.Next(0,2) == 0)
                 {
                     numberOfHeads++;
                 }
