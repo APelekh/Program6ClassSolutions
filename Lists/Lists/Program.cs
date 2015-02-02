@@ -67,9 +67,22 @@ namespace Lists
             //deleting from list
             teams.Remove("eagles");
             teams.RemoveAt(0);
-            teams.RemoveAll();
+            //teams.RemoveAll();
+
+            Test("One Two Three Four");
 
             Console.ReadKey();
+        }
+
+        static void Test(string test)
+        {
+            string[] newString = test.Split(' ');
+
+            for (int i = 0; i < newString.Length; i++ )
+            {
+                Console.WriteLine(newString[i]);
+            }
+            
         }
     }
 }
