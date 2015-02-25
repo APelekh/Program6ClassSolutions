@@ -1,0 +1,6 @@
+C:\Users\Technologist\Documents\GitHub\Program6ClassSolutions\ClassesAndObjects-StudentCourses\ClassesAndObjects-StudentCourses\bin\Debug\ClassesAndObjects-StudentCourses.exe.config
+C:\Users\Technologist\Documents\GitHub\Program6ClassSolutions\ClassesAndObjects-StudentCourses\ClassesAndObjects-StudentCourses\bin\Debug\ClassesAndObjects-StudentCourses.exe
+C:\Users\Technologist\Documents\GitHub\Program6ClassSolutions\ClassesAndObjects-StudentCourses\ClassesAndObjects-StudentCourses\bin\Debug\ClassesAndObjects-StudentCourses.pdb
+C:\Users\Technologist\Documents\GitHub\Program6ClassSolutions\ClassesAndObjects-StudentCourses\ClassesAndObjects-StudentCourses\obj\Debug\ClassesAndObjects-StudentCourses.csprojResolveAssemblyReference.cache
+C:\Users\Technologist\Documents\GitHub\Program6ClassSolutions\ClassesAndObjects-StudentCourses\ClassesAndObjects-StudentCourses\obj\Debug\ClassesAndObjects-StudentCourses.exe
+C:\Users\Technologist\Documents\GitHub\Program6ClassSolutions\ClassesAndObjects-StudentCourses\ClassesAndObjects-StudentCourses\obj\Debug\ClassesAndObjects-StudentCourses.pdb

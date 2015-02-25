@@ -1,0 +1,5 @@
+C:\Users\Technologist\Documents\GitHub\Program6ClassSolutions\ConsoleTricks\ConsoleTricks\bin\Debug\ConsoleTricks.exe.config
+C:\Users\Technologist\Documents\GitHub\Program6ClassSolutions\ConsoleTricks\ConsoleTricks\bin\Debug\ConsoleTricks.exe
+C:\Users\Technologist\Documents\GitHub\Program6ClassSolutions\ConsoleTricks\ConsoleTricks\bin\Debug\ConsoleTricks.pdb
+C:\Users\Technologist\Documents\GitHub\Program6ClassSolutions\ConsoleTricks\ConsoleTricks\obj\Debug\ConsoleTricks.exe
+C:\Users\Technologist\Documents\GitHub\Program6ClassSolutions\ConsoleTricks\ConsoleTricks\obj\Debug\ConsoleTricks.pdb

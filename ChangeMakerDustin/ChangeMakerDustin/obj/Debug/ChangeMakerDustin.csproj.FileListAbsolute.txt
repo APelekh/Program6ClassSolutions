@@ -1,0 +1,6 @@
+C:\Users\Technologist\Documents\GitHub\Program6ClassSolutions\ChangeMakerDustin\ChangeMakerDustin\bin\Debug\ChangeMakerDustin.exe.config
+C:\Users\Technologist\Documents\GitHub\Program6ClassSolutions\ChangeMakerDustin\ChangeMakerDustin\bin\Debug\ChangeMakerDustin.exe
+C:\Users\Technologist\Documents\GitHub\Program6ClassSolutions\ChangeMakerDustin\ChangeMakerDustin\bin\Debug\ChangeMakerDustin.pdb
+C:\Users\Technologist\Documents\GitHub\Program6ClassSolutions\ChangeMakerDustin\ChangeMakerDustin\obj\Debug\ChangeMakerDustin.csprojResolveAssemblyReference.cache
+C:\Users\Technologist\Documents\GitHub\Program6ClassSolutions\ChangeMakerDustin\ChangeMakerDustin\obj\Debug\ChangeMakerDustin.exe
+C:\Users\Technologist\Documents\GitHub\Program6ClassSolutions\ChangeMakerDustin\ChangeMakerDustin\obj\Debug\ChangeMakerDustin.pdb

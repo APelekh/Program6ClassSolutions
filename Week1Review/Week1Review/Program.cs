@@ -39,9 +39,10 @@ namespace Week1Review
             Console.WriteLine(NumberRounder(14));
             Console.WriteLine(NumberRounder(15));
 
-            Console.WriteLine(AnnoyingTextifyer("nickleback")); 
+            Console.WriteLine(AnnoyingTextifyer("nickleback"));
 
-
+            Console.WriteLine(0.19 % 0.25);
+            Console.WriteLine(0.19 / 0.25);
 
 
             Console.ReadKey();            
